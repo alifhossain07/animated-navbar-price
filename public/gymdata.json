@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 30,
+      "features": [
+        "Access to gym during off-peak hours",
+        "Free consultation with a trainer",
+        "Access to basic cardio and weight equipment",
+        "Locker access",
+        "Monthly fitness assessment"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 50,
+      "features": [
+        "Unlimited access to gym",
+        "Free consultation with a trainer",
+        "Access to all cardio and weight equipment",
+        "Access to group fitness classes",
+        "Locker access",
+        "Monthly progress tracking"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 70,
+      "features": [
+        "Unlimited access to gym",
+        "One free personal training session per month",
+        "Priority booking for group classes",
+        "Access to sauna and steam room",
+        "Free guest passes (2 per month)",
+        "Free yoga and Pilates classes"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Couple's Plan",
+      "price": 90,
+      "features": [
+        "Unlimited access to gym for two people",
+        "Two free personal training sessions per month",
+        "Priority booking for group classes",
+        "Access to sauna and steam room",
+        "Free guest passes (4 per month)",
+        "Access to couples' fitness workshops"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Family Plan",
+      "price": 120,
+      "features": [
+        "Unlimited access to gym for up to 4 family members",
+        "Four free personal training sessions per month",
+        "Priority booking for group classes",
+        "Access to sauna and steam room",
+        "Free guest passes (8 per month)",
+        "Free nutrition consultation",
+        "Access to kids' fitness programs"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Annual Membership",
+      "price": 500,
+      "features": [
+        "Unlimited access to gym",
+        "12 personal training sessions (1 per month)",
+        "Priority booking for group classes",
+        "Access to all facilities including sauna and steam room",
+        "Unlimited guest passes",
+        "Free nutrition consultation",
+        "Discount on merchandise and additional services",
+        "Access to exclusive members-only events"
+      ]
+    }
+  ]
+  
